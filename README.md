@@ -2,7 +2,7 @@
 DFT算法的HLS求解与PYNQ实验  
 基于xc7z020clg484-1
 用于远程实验  
-solution3和solution6为不同DFTcpp算法的同类型HLS求解，solution6计算速度更快（0.0008993148803710938s）
+solution3和solution6为不同DFTcpp算法的同类型HLS求解，solution6执行速度更快（0.0008993148803710938s）
 
 注：
 ![image](https://user-images.githubusercontent.com/36146459/184332099-8f235a14-d230-400f-a042-ba57bb47d33b.png)
